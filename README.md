@@ -2,6 +2,7 @@
 
 The Note Saver Chrome Extension is a simple and convenient tool that allows you to save and store your notes directly in your browser. With this extension, you can quickly jot down important information, reminders, or any other text-based content, and access it whenever you need it.
 
+![Movie App Screenshot](./Photo.png)
 ### Features
 **Easy Note Saving**: Save your notes effortlessly with a single click. No need to navigate away from your current webpage or open a separate application.  
 **Persistent Storage**: Your notes are securely stored locally in your browser, ensuring that they are always available even after closing the browser or restarting your computer.  
